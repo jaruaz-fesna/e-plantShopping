@@ -7,6 +7,11 @@ function AboutUs() {
       {/* <h1 className="about-us-heading">About Us</h1> */}
       <p className="about-us-description">Welcome to Paradise Nursery, where green meets serenity!</p>
       <p className="about-us-content">
+        Founded in the heart of <strong>Medellín, Colombia</strong> — the City of Eternal Spring — Paradise Nursery was born 
+        from a deep love for nature and the rich botanical heritage of the Andes. Surrounded by some of the world's most 
+        diverse flora, we are inspired every day by the lush landscapes of our home city.
+      </p>
+      <p className="about-us-content">
         At Paradise Nursery, we are passionate about bringing nature closer to you. Our mission is to provide a wide range of 
         high-quality plants that not only enhance the beauty of your surroundings but also contribute to a healthier and 
         more sustainable lifestyle. From air-purifying plants to aromatic fragrant ones, we have something for every 
@@ -23,7 +28,7 @@ function AboutUs() {
 
       <p className="about-us-content">
         Join us in our mission to create a greener, healthier world. Visit Paradise Nursery today and experience the 
-        beauty of nature right at your doorstep.
+        beauty of nature right at your doorstep — straight from Medellín to your home.
       </p>
     </div>
   );
